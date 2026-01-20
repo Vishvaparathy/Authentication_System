@@ -80,6 +80,9 @@ Register → Login → Welcome Page → Logout
 ### Welcome Dashboard
 ![Welcome Page]<img width="1920" height="1080" alt="Screenshot (1068)" src="https://github.com/user-attachments/assets/9d477cd6-7295-40b9-b9e9-c3ad3a2823d3" />
 
+### Database and users Table
+![Database & users Table]<img width="1920" height="1080" alt="Screenshot (1075)" src="https://github.com/user-attachments/assets/44629195-b59b-4845-af15-ed481bc29818" />
+
 ### What I Learned
 How PHP sessions work
 How to hash and verify passwords
